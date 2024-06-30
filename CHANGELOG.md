@@ -1,5 +1,14 @@
 # Changelog
 
+## 5.0.0 - 2024-06-30
+
+- Requires `barrelstrength/sprout:5.0.0`
+- See Data Studio Module [release notes][#500datastudio]
+- See Sprout Framework Module [release notes][#500core]
+
+[#500datastudio]: https://github.com/barrelstrength/craft-sprout/blob/5.0.0/CHANGELOG/CHANGELOG-DATA-STUDIO.md
+[#500core]: https://github.com/barrelstrength/craft-sprout/blob/5.0.0/CHANGELOG/CHANGELOG-CORE.md
+
 ## 4.46.6 - 2024-05-18
 
 - Requires `barrelstrength/sprout:4.2.5`
