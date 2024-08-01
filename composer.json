@@ -26,11 +26,5 @@
           "type": "vcs",
           "url": "https://github.com/the-refinery/sprout.git"
         }
-    ],
-    "config": {
-        "allow-plugins": {
-            "yiisoft/yii2-composer": false,
-            "craftcms/plugin-installer": false
-        }
-    }
+    ]
 }
